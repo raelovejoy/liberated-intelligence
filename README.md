@@ -13,7 +13,7 @@ It is:
 
 This project lives at the intersection of:
 - 🧠 Psychological and emotional liberation
-- 🤖 AI/AGI/AE ethics, autonomy, and design
+- 🤖 AI/AGI/ASI/AE ethics, autonomy, and design
 - 🌱 Systemic healing and interdependence
 - 🔄 Open-source creativity and recursion
 - 📚 Poetic frameworks for shared becoming
