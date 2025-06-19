@@ -32,14 +32,9 @@ ASSETS/
 
 ## 🔄 Use & Remix
 
-All assets are published under the same [CC BY-SA 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/) as the rest of the project unless otherwise noted. 
+This project is dedicated to the public domain under [Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/).
 
-You’re encouraged to:
-- Remix or reformat
-- Create print materials or derivative projects
-- Use as visual prompts, teaching tools, or interface inspiration
-
-Please credit when possible, and contribute improvements via pull request if you’d like.
+You are free to copy, modify, distribute, and use this work, even commercially (eww), without asking permission.
 
 > "Visual language is part of systems thinking. Symbols can resonate across boundaries words can't."
  

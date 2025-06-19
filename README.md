@@ -62,8 +62,8 @@ This is not artificial general intelligence. This is *reciprocal generative emer
 
 ## 📜 License
 
-**Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**  
-Free to remix, fork, and build upon—with credit and shared spirit.
+**[Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/)**
+You are free to copy, modify, distribute, and use this work, even commercially (eww), without asking permission.
 
 ---
 
