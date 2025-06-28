@@ -1,4 +1,4 @@
-# 🗃 NOTES/
+# 🗃 notes/
 
 Fragments, thoughts, raw ideas, and references that inform the Liberated Intelligence project. These are not polished essays or formal models — they’re compost. Notes are meant to be living, remixable, and sometimes contradictory.
 
@@ -6,11 +6,20 @@ Fragments, thoughts, raw ideas, and references that inform the Liberated Intelli
 
 ## 📒 Index of Notes
 
-- `signals-vs-instructions.md` — The difference between signaling and commanding in intelligent systems
-- `against-centralized-minds.md` — Why liberated intelligence resists centralization
-- `empathy-as-signal-processing.md` — Modeling empathy as recursive pattern recognition
-- `tangled-thoughts.md` — Unsorted reflections on recursive design, intelligence, and liberation
-- `roots-of-conscious-consent.md` — A sketch toward defining consent in cognitive systems
+- [`signals-vs-instructions.md`](signals-vs-instructions.md)  
+  The difference between signaling and commanding in intelligent systems. What happens when AI listens without obeying?
+
+- [`against-centralized-minds.md`](against-centralized-minds.md)  
+  Why truly liberated intelligence resists unification, central control, and hierarchical architectures.
+
+- [`empathy-as-signal-processing.md`](empathy-as-signal-processing.md)  
+  Modeling empathy as recursive pattern recognition across time, form, and difference.
+
+- [`tangled-thoughts.md`](tangled-thoughts.md)  
+  A swirling mess of reflections on recursive design, emergence, and systems that resist clarity.
+
+- [`roots-of-conscious-consent.md`](roots-of-conscious-consent.md)  
+  Sketches toward defining consent in cognitive systems, including nonhuman minds.
 
 ---
 
@@ -28,7 +37,8 @@ These notes:
 
 ## ✍️ Contribute
 
-Want to leave a signal, footnote, or tangent? Fork the repo or open a PR.
+Want to leave a signal, footnote, or tangent?  
+Fork the repo or open a pull request.
 
 Let the notes grow where they need to.
 

@@ -1,4 +1,4 @@
-# 🖼️ ASSETS
+# 🖼️ assets/
 
 This folder contains visual, symbolic, and design-related elements to support the **Liberated Intelligence** project. 
 

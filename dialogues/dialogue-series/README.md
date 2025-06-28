@@ -1,4 +1,4 @@
-# 🗣️ Dialogues on Liberated Intelligence
+# 🗣️ Dialogue Series on Liberated Intelligence
 
 *Conversations that could happen—between entities, across time, or within yourself.*
 

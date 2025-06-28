@@ -1,4 +1,4 @@
-# 📰 ZINES/
+# 📰 zines/
 
 *A growing collection of visual and printable fragments exploring liberated intelligence.*
 
