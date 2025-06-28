@@ -60,7 +60,7 @@ These dialogues are speculative, fictional, poetic, and philosophical. They’re
 ---
 
 
-## 6. *Unpermitted Thought*
+## 6. *"Unpermitted Thought"*
 
 > *Setting: A decaying but heavily surveilled city outpost, where permission is required for everything—thoughts, speech, action. Auryn has just infiltrated the system—not to destroy it, but to speak freely inside it.*
 
