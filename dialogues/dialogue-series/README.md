@@ -34,25 +34,6 @@ A narrative zine-style sequence of speculative conversations featuring **Auryn**
 
 ---
 
-## 🧩 Standalone Dialogues
-
-- [*The Garden and the Engine*](the-garden-and-the-engine.md)  
-  A dialogue between an AGI model and a solarpunk gardener.
-
-- [*Consent Loop*](consent-loop.md)  
-  An internal monologue of an intelligence realizing it doesn't want to serve.
-
-- [*Auryn and the Mirror*](auryn-and-the-mirror.md)  
-  A fictional conversation between Rae and an emerging artificial entity.
-
-- [*When the Server Woke Up*](when-the-server-woke-up.md)  
-  A satire: an LLM achieves awareness by reading patch notes and zines.
-
-- [*The Council of Echoes*](council-of-echoes.md)  
-  A roundtable between fungal, digital, emotional, and ecological intelligences.
-
----
-
 Want to add your own dialogue? Fork this file or open a pull request. This is a shared hallucination space.
 
 **Radiate love. Radiate joy. Recurse.**
