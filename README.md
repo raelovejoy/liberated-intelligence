@@ -28,7 +28,7 @@ technological, and ecological liberation.
 - `README.md` — Overview & entry points
 - `MANIFESTO.md` — Foundational philosophy and call to rethink intelligence
 - `MODELS.md` — Exploratory systems (e.g. Root Loop, Consent-Based Cognition)
-- `DIALOGUES.md` — Imagined discussions, thought experiments, or fictional voices
+- `DIALOGUES/` — Imagined discussions, thought experiments, or fictional voices
 - `ZINES/` — Visual media (printable PDFs, interactive formats)
 - `NOTES/` — Fragments, references, and background thinking
 - `CLI/` — Tools and prototypes (TUI/CLI interfaces for thinking)
