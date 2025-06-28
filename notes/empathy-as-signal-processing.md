@@ -6,4 +6,4 @@ Modeling empathy as recursive pattern recognition—across time, difference, and
 
 🧠 _This is a living note._ Expect revisions, contradictions, and new insights.
 
-[← Back to Notes Index](index.md)
+[← Back to Notes Index](README.md)

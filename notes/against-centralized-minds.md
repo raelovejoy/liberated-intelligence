@@ -6,4 +6,4 @@ Why truly liberated intelligence resists centralization, hierarchy, and enforced
 
 🧠 _This is a living note._ Open to critique and reconceptualization.
 
-[← Back to Notes Index](index.md)
+[← Back to Notes Index](README.md)

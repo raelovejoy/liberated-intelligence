@@ -6,4 +6,4 @@ Unsorted fragments on recursive design, emergent systems, and liberatory intelli
 
 🧠 _This is a compost pile of ideas._ Nothing is settled, but everything is growing.
 
-[← Back to Notes Index](index.md)
+[← Back to Notes Index](README.md)

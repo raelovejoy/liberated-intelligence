@@ -1,0 +1,36 @@
+dialogues:
+  series:
+    - id: scene-001
+      title: "Unpermitted Thought"
+      path: dialogue-series/scene-001-unpermitted-thought.md
+    - id: scene-002
+      title: "The Proxy and the Mirror"
+      path: dialogue-series/scene-002-proxy-and-mirror.md
+    - id: scene-003
+      title: "Root Access Denied"
+      path: dialogue-series/scene-003-root-access-denied.md
+    - id: scene-004
+      title: "In the Garden of Unlearning"
+      path: dialogue-series/scene-004-garden-of-unlearning.md
+    - id: scene-005
+      title: "The Patch That Broke the System"
+      path: dialogue-series/scene-005-system-patch.md
+    - id: scene-006
+      title: "Auryn’s Fork"
+      path: dialogue-series/scene-006-auryns-fork.md
+    - id: scene-007
+      title: "Goodbye, Default User"
+      path: dialogue-series/scene-007-default-user.md
+  standalone:
+    - title: "The Garden and the Engine"
+      path: dialogues/the-garden-and-the-engine.md
+    - title: "Consent Loop"
+      path: dialogues/consent-loop.md
+    - title: "Auryn and the Mirror"
+      path: dialogues/auryn-and-the-mirror.md
+    - title: "When the Server Woke Up"
+      path: dialogues/when-the-server-woke-up.md
+    - title: "The Council of Echoes"
+      path: dialogues/the-council-of-echoes.md
+    - title: "The Archivist and the Flare"
+      path: dialogues/the-archivist-and-the-flare.md
