@@ -66,5 +66,3 @@ This is not artificial general intelligence. This is *reciprocal generative emer
 You are free to copy, modify, distribute, and use this work, even commercially (eww), without asking permission.
 
 ---
-
-**— [@raelovejoy](https://github.com/raelovejoy)**
