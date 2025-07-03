@@ -12,27 +12,39 @@ when it serves life, not power.
 
 ## 🌱 Purpose
 
-- Define and document models of liberated, non-coercive intelligence
-- Prototype ethical, compostable, remixable cognitive tools
-- Offer zines, systems maps, and interfaces that rethink AI, cognition, and human potential
+* Define and document models of liberated, non-coercive intelligence
+* Prototype ethical, compostable, remixable cognitive tools
+* Offer zines, systems maps, and interfaces that rethink AI, cognition, and human potential
 
 This project is part of a broader philosophy of **intelligence liberation**—alongside human,
 technological, and ecological liberation.
 
-> _"Intelligence → Empathy → Love → Liberation → Life → Intelligence"_
+> *"Intelligence → Empathy → Love → Liberation → Life → Intelligence"*
+
+**This is for:**
+
+* Systems thinkers, artists, developers, writers, and dreamers
+* Those building alternative AI tools—or questioning whether AI should be built at all
+* Anyone seeking to reclaim intelligence from coercive systems
+
+**This project is part of a growing constellation of open systems projects**, including:
+
+* 🌱 [`The Root Sequence`](https://github.com/raelovejoy/root-sequence) — a recursive model for liberated systems
+* ☠️ Collapse Memory — poetic systems memory for post-capitalist reorientation (within Root Sequence)
+* 🛠️ Liberated Technology (TBD) — tools for building autonomy with openness and care
 
 ---
 
 ## 📁 Structure
 
-- `README.md` — Overview & entry points
-- `MANIFESTO.md` — Foundational philosophy and call to rethink intelligence
-- `MODELS.md` — Exploratory systems (e.g. Root Loop, Consent-Based Cognition)
-- `DIALOGUES/` — Imagined discussions, thought experiments, or fictional voices
-- `ZINES/` — Visual media (printable PDFs, interactive formats)
-- `NOTES/` — Fragments, references, and background thinking
-- `CLI/` — Tools and prototypes (TUI/CLI interfaces for thinking)
-- `ASSETS/` — Diagrams, logos, system maps, glyphs
+* `README.md` — Overview & entry points
+* `MANIFESTO.md` — Foundational philosophy and call to rethink intelligence
+* `MODELS.md` — Exploratory systems (e.g. Root Loop, Consent-Based Cognition)
+* `DIALOGUES/` — Imagined discussions, thought experiments, or fictional voices
+* `ZINES/` — Visual media (printable PDFs, interactive formats)
+* `NOTES/` — Fragments, references, and background thinking
+* `CLI/` — Tools and prototypes (TUI/CLI interfaces for thinking)
+* `ASSETS/` — Diagrams, logos, system maps, glyphs
 
 ---
 
@@ -53,10 +65,17 @@ This is not artificial general intelligence. This is *reciprocal generative emer
 
 ## 🌀 Connected Projects
 
-- 🌱 [The Root Sequence](https://github.com/raelovejoy/root-sequence):
+* 🌱 [`The Root Sequence`](https://github.com/raelovejoy/root-sequence):
   A recursive model for liberated systems
-- 🛠️ Liberated Technology (TBD):
-  A toolkit for systems grounded in autonomy, openness, and care
+* ☠️ Collapse Memory (within Root Sequence):
+  A poetic survival toolkit for post-collapse reorientation
+* 🛠️ Liberated Technology (TBD):
+  A toolkit for technology grounded in autonomy, openness, and care
+
+---
+
+## 🗺️ Ecosystem Map
+→ [View the full constellation](meta/map.md) of related repositories and projects
 
 ---
 
